@@ -1,0 +1,14 @@
+C:\Users\4p2\RiderProjects\duraj_zadania_ppo\zwierzeta\obj\Debug\net10.0\zwierzeta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\4p2\RiderProjects\duraj_zadania_ppo\zwierzeta\obj\Debug\net10.0\zwierzeta.AssemblyInfoInputs.cache
+C:\Users\4p2\RiderProjects\duraj_zadania_ppo\zwierzeta\obj\Debug\net10.0\zwierzeta.AssemblyInfo.cs
+C:\Users\4p2\RiderProjects\duraj_zadania_ppo\zwierzeta\obj\Debug\net10.0\zwierzeta.csproj.CoreCompileInputs.cache
+C:\Users\4p2\RiderProjects\duraj_zadania_ppo\zwierzeta\bin\Debug\net10.0\zwierzeta.exe
+C:\Users\4p2\RiderProjects\duraj_zadania_ppo\zwierzeta\bin\Debug\net10.0\zwierzeta.deps.json
+C:\Users\4p2\RiderProjects\duraj_zadania_ppo\zwierzeta\bin\Debug\net10.0\zwierzeta.runtimeconfig.json
+C:\Users\4p2\RiderProjects\duraj_zadania_ppo\zwierzeta\bin\Debug\net10.0\zwierzeta.dll
+C:\Users\4p2\RiderProjects\duraj_zadania_ppo\zwierzeta\bin\Debug\net10.0\zwierzeta.pdb
+C:\Users\4p2\RiderProjects\duraj_zadania_ppo\zwierzeta\obj\Debug\net10.0\zwierzeta.dll
+C:\Users\4p2\RiderProjects\duraj_zadania_ppo\zwierzeta\obj\Debug\net10.0\refint\zwierzeta.dll
+C:\Users\4p2\RiderProjects\duraj_zadania_ppo\zwierzeta\obj\Debug\net10.0\zwierzeta.pdb
+C:\Users\4p2\RiderProjects\duraj_zadania_ppo\zwierzeta\obj\Debug\net10.0\zwierzeta.genruntimeconfig.cache
+C:\Users\4p2\RiderProjects\duraj_zadania_ppo\zwierzeta\obj\Debug\net10.0\ref\zwierzeta.dll
