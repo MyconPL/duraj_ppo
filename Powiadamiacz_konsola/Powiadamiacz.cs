@@ -1,9 +1,5 @@
 namespace Powiadomienia;
 
-/// <summary>
-/// Agreguje kanały powiadomień i rozsyła wiadomości do wszystkich zarejestrowanych kanałów.
-/// Działa wyłącznie na interfejsie IKanalPowiadomien — nie zna konkretnych implementacji.
-/// </summary>
 public class Powiadamiacz
 {
     private readonly List<IKanalPowiadomien> _kanaly = [];
