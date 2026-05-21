@@ -5,7 +5,7 @@ public class Pies : Zwierze
     public Pies(string nazwa, int wiek) : base(nazwa, wiek) { }
     public override void Dzwiek()
     {
-        throw new NotImplementedException();
+        Console.WriteLine("Szczekanie psa");
     }
 
     public override string Gatunek()

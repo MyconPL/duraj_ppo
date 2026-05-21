@@ -2,16 +2,14 @@
 
 public class Program
 {
-    
-
     public static void Main(string[] args)
     {
         Zwierze[] schronisko =
         {
-            new Pies("Burek", 3),
-            new Kot("Mruczek", 2),
-            new Krolik("Skoczek", 1),
-            new Pies("Reksio", 5)
+            new Pies("Dog", 3),
+            new Kot("Nygus", 2),
+            new Krolik("Kaninchen", 1),
+            new Krolik("Czarny krolik", 5)
         };
         
         foreach (Zwierze zwierze in schronisko)

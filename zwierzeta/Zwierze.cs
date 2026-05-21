@@ -2,10 +2,14 @@
 
 public abstract class Zwierze
 {
-    protected Zwierze(string nazwa, int wiek) { }
+    protected Zwierze(string imie, int wiek)
+    {
+        Imie = imie;
+        Wiek = wiek;
+    }
 
-    private string Nazwa { get; set; }
-    private int Wiek { get; set; }
+    protected string Imie { get; set; }
+    protected int Wiek { get; set; }
 
     public abstract void Dzwiek();
     public abstract string Gatunek();
@@ -17,7 +21,7 @@ public abstract class Zwierze
 
     public void PrzedstawSie()
     {
-        Console.WriteLine("czesc, jestem " + Nazwa + ", mam " + Wiek + " lata");
+        Console.WriteLine($"{Imie} ({Gatunek()}), wiek: {Wiek} lat");
     }
 
    ~Zwierze()
