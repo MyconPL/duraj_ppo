@@ -6,9 +6,20 @@ public class Program
 
     public static void Main(string[] args)
     {
-        Zwierze Pies = new Zwierze("Pies",3);
-        Pies.WydajDziwek();
-        Pies.PrzedstawSie();
+        Zwierze[] schronisko =
+        {
+            new Pies("Burek", 3),
+            new Kot("Mruczek", 2),
+            new Krolik("Skoczek", 1),
+            new Pies("Reksio", 5)
+        };
+        
+        foreach (Zwierze zwierze in schronisko)
+        {
+            zwierze.PrzedstawSie();
+            zwierze.Dzwiek();
+            Console.WriteLine();
+        }
     }
     
 }
