@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zwierzeta", "zwierzeta\zwie
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ksztalty", "ksztalty\ksztalty.csproj", "{8224A2F3-6610-4DC0-8172-FD27DAAF35EA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Powiadamiacz", "Powiadamiacz\Powiadamiacz.csproj", "{3FF8A5D3-27BA-4056-BF3E-C02D432AD224}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{8224A2F3-6610-4DC0-8172-FD27DAAF35EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8224A2F3-6610-4DC0-8172-FD27DAAF35EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8224A2F3-6610-4DC0-8172-FD27DAAF35EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FF8A5D3-27BA-4056-BF3E-C02D432AD224}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FF8A5D3-27BA-4056-BF3E-C02D432AD224}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FF8A5D3-27BA-4056-BF3E-C02D432AD224}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FF8A5D3-27BA-4056-BF3E-C02D432AD224}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
