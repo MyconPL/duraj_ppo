@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Powiadamiacz")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("blabla")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eb223668275317575c73e86fba9dca6d26755bee")]
-[assembly: System.Reflection.AssemblyProductAttribute("Powiadamiacz")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Powiadamiacz")]
+[assembly: System.Reflection.AssemblyProductAttribute("blabla")]
+[assembly: System.Reflection.AssemblyTitleAttribute("blabla")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Wygenerowane przez klasę WriteCodeFragment programu MSBuild.
